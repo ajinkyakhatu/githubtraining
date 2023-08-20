@@ -4,3 +4,6 @@ should be responsive
 multiple pages
 gets burger menubar when on mobile screen
 
+need to add some javascript effects
+create sports news website like cricinfo
+were user can create accounand to get latest news.
